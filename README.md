@@ -1,16 +1,12 @@
-# golden_ace_games
 
-A new Flutter project.
+![ss](https://github.com/user-attachments/assets/4e994b46-0eec-4703-b2f5-157737cc8569)
 
-## Getting Started
+#  Flutter Golden Ace Games
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+ Flutter Golden Ace Games
+This app provides information about video games with diversified categories and offers you game
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+It is completely free 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Your privacy is important—no personal data is collected. -
